@@ -59,6 +59,7 @@ D. Histogram of Job Satisfaction
       - 70%-80%
       - 80%-90%
       - 90%-100%
+      
 E. Pairwise Scatter plots
 
   1. Obtain scatter plots of the Happiness Score versus each of the other variables. Your plots should be displayed as multiple plots table and obtained with one command as opposed to separate commands for each plot.
